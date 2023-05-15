@@ -20,7 +20,7 @@ export default {
 
         }
     },
-    // 生命週期
+    
     mounted() {
         // this.fn();
 
