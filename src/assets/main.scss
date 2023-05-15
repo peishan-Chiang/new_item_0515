@@ -1,0 +1,16 @@
+@import"../../node_modules/bootstrap/scss/functions";
+@import "./stylesheet/variables";
+
+
+@import"../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+body{
+  margin:0;
+};
+
+* , *::before,* ::after{//全部的i作一些範圍調整
+  box-sizing: border-box;//確保圖片向區塊內擺放，不會跑出來
+
+ 
+}
